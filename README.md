@@ -9,7 +9,6 @@
    <a/>
 </div>
 
-- 🔭 I’m currently working on [Django Library Management System](https://github.com/jovyinny/Library-Management-System-1.git)
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Django projetcs
 - 💬 Ask me about Arduino,Python,Electronics
