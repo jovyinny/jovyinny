@@ -26,3 +26,5 @@
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jovyinny&theme=dark)](https://git.io/streak-stats)
+
+[![An image of @jovyinny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jovyinny)](https://holopin.io/@jovyinny)
