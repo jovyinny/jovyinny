@@ -22,9 +22,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovyinny&layout=compact&theme=vision-friendly-dark)](https://github.com/jovyinny/github-readme-stats)
-
-## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jovyinny&theme=dark)](https://git.io/streak-stats)
-
-[![An image of @jovyinny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jovyinny)](https://holopin.io/@jovyinny)
