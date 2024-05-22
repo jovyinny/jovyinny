@@ -10,7 +10,7 @@
 </div>
 
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Django projetcs
+- I’m looking to collaborate on Django projetcs
 - 💬 Ask me about Arduino,Python,Electronics
 
 
