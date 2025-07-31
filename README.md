@@ -9,9 +9,9 @@
    <a/>
 </div>
 
-- 🌱 I’m currently learning Django
-- I’m looking to collaborate on Django projetcs
-- 💬 Ask me about Arduino,Python,Electronics
+- 🌱 I’m currently learning Backend Development + ML fundamentals...
+- I’m looking to collaborate on Backend Projects
+- 💬 Ask me about Backend, Arduino, Electronics
 
 
 ## **Languages and Tools:**
@@ -21,4 +21,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
